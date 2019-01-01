@@ -1,0 +1,39 @@
+{
+	"pattrstorage" : 	{
+		"name" : "data",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"degradedrywet" : [ 0 ],
+					"degradelevel" : [ -70.0 ],
+					"delaydrywet" : [ 0 ],
+					"delaylevel" : [ -70.0 ],
+					"freqshiftdrywet" : [ 0 ],
+					"freqshiftlevel" : [ -70.0 ],
+					"grainduration" : [ 0 ],
+					"grainmaintoggle" : [ 0 ],
+					"grainsubtoggle" : [ 0 ],
+					"granularlevel" : [ -70.0 ],
+					"granularvolume" : [ 0 ],
+					"mainvolume" : [ 0.0 ],
+					"matrix1by4" : [ 0, 0, 0 ],
+					"overdrivedrywet" : [ 0 ],
+					"overdrivelevel" : [ -70.0 ],
+					"sample1" : [ 0 ],
+					"sample2" : [ 1 ],
+					"sample3" : [ 2 ],
+					"sample4" : [ 3 ],
+					"srglevel" : [ -70.0 ],
+					"srgvolume" : [ 0 ],
+					"timeoffset" : [ 0 ],
+					"grainswitch" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
